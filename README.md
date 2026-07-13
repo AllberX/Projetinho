@@ -21,9 +21,9 @@ A página reúne instruções claras, imagens ilustrativas e boas práticas para
 
 Aqui estão dois exemplos visuais da interface:
 
-![Tela inicial do manual](./P1.jpg)
+![Tela inicial do manual](./P1.png)
 
-![Processo de cadastro facial](./P2.jpg)
+![Processo de cadastro facial](./P2.png)
 
 ## 🛠️ Tecnologias utilizadas
 
